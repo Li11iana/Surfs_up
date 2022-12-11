@@ -1,13 +1,26 @@
-# Temperature Trend Analysis for Oahu, Hawaii/
+# Temperature Trend Analysis for Oahu, Hawaii.
 
 ## Overview
+Using Python and SQLAlchemy the hawaii.sqlite database is analyzed. This database contains Oahu's weather data, and allows us to determined if there are any major temperature considerations for business purposes.
 
-Overview of the statistical analysis:
+### Objective:
+Retrieve and compare the statistics for Oahu's temperature for the month of December against June's temperture data.
 
-The purpose of the analysis is well defined. (3 pt)
+
 ## Results:
 
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
+### December Temperature Statistics
+
+### June Temperature Statistics
+
+### Major conclusions
+
+* Max temperature:
+
+* Min temperature:
+
+* Average temperature:
+
 ## Summary:
 
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
