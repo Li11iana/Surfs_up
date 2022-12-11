@@ -22,14 +22,6 @@ All data entries for both the month of June and December were retrived from the 
 
 * A total of 1517 data entries were used for this analysis. It determined that the average temperature is 71.04 °F, while the lowest and hightest temperatures for the month of December were 56.00 °F and 83.00 °F respectively.
 
-## Information Sources
-
-* Weather doesn’t affect ice cream consumption by Valerie Vande Panne. 2013. Retrieved fromhttps://news.harvard.edu/gazette/story/2013/07/weather-doesnt-affect-ice-cream-consumption/
-
-* The Ultimate Wetsuit Thickness Guide. 2022. Retrieved from https://quiksilver.com/expert-guide/surf/buying/how-to-choose-wetsuit-thickness.html
-
-* Fresh Essays. (September 2022). Correlation Between Ice-Cream Sales and Temperature. Retrieved from https://samples.freshessays.com/correlation-between-ice-cream-sales-and-temperature.html
-
 ## Summary:
 
 * Max temperature:
@@ -67,3 +59,13 @@ Based on these information we can further evaluate the temperature patterns for 
 
 
 ![Aug_temperature_stats](https://github.com/Li11iana/surfs_up/blob/main/Resources/Aug_temperature_stats.png)
+
+Another analysis that could further expand this current report would be to graph average, minimum and maximum temperature for each month.
+
+## Information Sources
+
+* Weather doesn’t affect ice cream consumption by Valerie Vande Panne. 2013. Retrieved fromhttps://news.harvard.edu/gazette/story/2013/07/weather-doesnt-affect-ice-cream-consumption/
+
+* The Ultimate Wetsuit Thickness Guide. 2022. Retrieved from https://quiksilver.com/expert-guide/surf/buying/how-to-choose-wetsuit-thickness.html
+
+* Fresh Essays. (September 2022). Correlation Between Ice-Cream Sales and Temperature. Retrieved from https://samples.freshessays.com/correlation-between-ice-cream-sales-and-temperature.html
