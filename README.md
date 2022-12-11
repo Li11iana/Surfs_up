@@ -53,6 +53,7 @@ We analyzed the temperature data for June and December specifically to contrast 
 
 * Max temperature recorded: 2010-08-23, 87.0°F 
 * Minimum temperature recorded:2013-04-02', 53.0°F 
+
 Based on these information we can further evaluate the temperature patterns for the month with the hystorical highest and lowest temperature. The statistical review of the temperature for August (highest temperature recorded 87.0°F) and April (lowest temperature recorded 53.0°F).
 
 ![April_temperature_stats](https://github.com/Li11iana/surfs_up/blob/main/Resources/April_temperature_stats.png)
