@@ -65,7 +65,7 @@ Another analysis that could further expand this current report would be to graph
 
 ## Information Sources
 
-* Weather doesn’t affect ice cream consumption by Valerie Vande Panne. 2013. Retrieved fromhttps://news.harvard.edu/gazette/story/2013/07/weather-doesnt-affect-ice-cream-consumption/
+* Weather doesn’t affect ice cream consumption by Valerie Vande Panne. 2013. Retrieved from https://news.harvard.edu/gazette/story/2013/07/weather-doesnt-affect-ice-cream-consumption/
 
 * The Ultimate Wetsuit Thickness Guide. 2022. Retrieved from https://quiksilver.com/expert-guide/surf/buying/how-to-choose-wetsuit-thickness.html
 
